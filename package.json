@@ -6,6 +6,7 @@
     "watch": "brunch watch --stdin"
   },
   "dependencies": {
+    "axios": "^0.16.2",
     "babel-preset-env": "^1.6.0",
     "babel-preset-react": "^6.24.1",
     "bulma": "^0.5.3",
